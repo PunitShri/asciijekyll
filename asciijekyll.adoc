@@ -4,17 +4,30 @@ The course is divided into
 
 * 4 sessions
 -   covers 4 technical documentation guides 
-** Quick Start Guide, 
-** Installation Guide, 
+** Quick Start *Guide*, 
+** _Installation_ Guide, 
 ** User Guide, and ** Release Notes. 
 
 With training, 
 
 * [*] live exercises and demo, the course covers to share all required information such as templates and structure of every guide.
 
+== Style and Format
+<span class="userinput">asciidoc</span>
+
+=== List of items
+Check the list below 
+
+    *   First one
+    *   Second one
+    **  Third one
+    **  4th one
+    -   5th one
+    - 6th one
+
 = Title 1
 == Title 2
-Check the https://techwriterstribe.com/course/twts-upcoming-courses/ [TWT]
+Check  https://techwriterstribe.com/course/twts-upcoming-courses/ [TWT]
 
 
  
