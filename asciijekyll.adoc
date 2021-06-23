@@ -1,8 +1,9 @@
 = Introduction
 
-The course is divided into 
+The course is divided into
+
 * 4 sessions
-* covers 4 technical documentation guides 
+-   covers 4 technical documentation guides 
 ** Quick Start Guide, 
 ** Installation Guide, 
 ** User Guide, and ** Release Notes. 
@@ -13,7 +14,7 @@ With training,
 
 = Title 1
 == Title 2
-No title
+Check the https://techwriterstribe.com/course/twts-upcoming-courses/ [TWT]
 
 
  
